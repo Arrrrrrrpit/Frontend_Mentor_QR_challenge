@@ -1,0 +1,46 @@
+body{
+  text-align: center;
+  background-color: #d5e1ef;
+  font-family: 'Outfit', sans-serif;
+}
+
+h2{
+  color: black;
+  padding: 10px;
+  font-size: 22px;
+}
+
+p{
+  color: #aaadb6;
+  font-size: 15px;
+}
+
+a{
+  margin: auto;
+}
+
+.container{
+  background-color: white;
+  margin: 7.5rem auto;
+  border-radius: 1rem;
+  display: inline-block;
+  padding: 10px;
+}
+
+.attribution{
+  margin-top: 100px;
+}
+
+.text1{
+  margin: auto;
+  width: 270px;
+}
+
+.text2{
+  margin: auto;
+  width: 245px;
+}
+
+.qr{
+  border-radius: 0.5rem;
+}
